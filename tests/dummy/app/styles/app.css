@@ -1,0 +1,7 @@
+body {
+  --environment: "@{environment}";
+  --foo: "@{foo}";
+  --bar-baz: "@{bar.baz}";
+  --qux: "@{qux}";
+  --quux: "@{quux}";
+}
