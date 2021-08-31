@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-environment-config-replace",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Simple templating using config/environment.js at build time.",
   "keywords": [
     "ember-addon"
